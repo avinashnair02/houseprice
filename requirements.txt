@@ -11,6 +11,5 @@ sklearn==0.0
 wincertstore==0.2
 numpy==1.16.2
 fastapi==0.63.0
-uvloop
 httptools
 
